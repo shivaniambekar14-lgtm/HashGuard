@@ -51,6 +51,6 @@ Ensure that you have the following installed:
   <ul>
     <h2>Author</h2>
     <li>Name: Shivani ambekar</li>
-    <li>GitHub: <a href="https://github.com/shuuubhraj">https://github.com/shuuubhraj</a></li>
+    <li>GitHub: <a href="https://github.com/shuuubhraj">https://github.com/shivaniambekar14-lgtm </a></li>
   </ul>
 </p>
